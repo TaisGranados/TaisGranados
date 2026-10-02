@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Tais Granados! 👋
 
-<!--
-**TaisGranados/TaisGranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Systems Engineering Graduate | Software Development
 
-Here are some ideas to get you started:
+I'm a Systems Engineering graduate from Universidad Internacional San Isidro Labrador (UISIL), Costa Rica, interested in software development, web applications, databases, and digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, solving problems, and collaborating on software projects.
+
+## 🛠️ Technologies & Tools
+
+* **Programming:** Java, C#
+* **Web Development:** React, Node.js, Express, ASP.NET
+* **Databases:** SQL Server, Oracle Database, MongoDB
+* **Tools:** Git, GitHub, Visual Studio, Visual Studio Code
+* **Methodologies:** Scrum, Agile teamwork
+
+## 🚀 Featured Projects
+
+### Marketplace Multi-Vendedor
+
+Academic team project focused on a multi-vendor e-commerce platform.
+
+* Scrum Master: backlog organization, sprint planning, and team coordination.
+* Technologies: React, Node.js, Express, MongoDB.
+
+https://github.com/TaisGranados/Marketplace-MultiVendedor
+
+### Other Academic Projects
+
+* **Digital Museum Catalog:** Java, JavaFX, Oracle Database.
+* **Parking Management System:** C#, SQL Server, layered architecture.
+* **Memory Game:** Java 21, JavaFX.
+* **Academic Project Manager:** C# and Git/GitHub.
+* **GreenTech:** C# and Windows Forms.
+
+More project details and repositories will be added as they are prepared for publication.
+
+## 🌱 Currently Growing
+
+* Strengthening my software development skills.
+* Building personal projects and documenting my code.
+* Improving my English and technical communication.
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/tais-ayelem-granados-retana-176691304
+* GitHub: https://github.com/TaisGranados
+* Location: Costa Rica
+
+---
+
+*Always learning. Always building.*
