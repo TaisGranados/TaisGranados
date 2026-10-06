@@ -43,7 +43,7 @@ More project details and repositories will be added as they are prepared for pub
 
 ## 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/tais-ayelem-granados-retana-176691304
+* LinkedIn: linkedin.com/in/tais-granados 
 * GitHub: https://github.com/TaisGranados
 * Location: Costa Rica
 
