@@ -1,4 +1,4 @@
-# Hi, I'm Tais Granados! 👋
+# Hi, I'm Tais Granados! 👋🏽
 
 ### Systems Engineering Graduate | Software Development
 
